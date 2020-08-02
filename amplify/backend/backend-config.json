@@ -1,0 +1,10 @@
+{
+	"function": {
+		"projectbarstet2dcc0cf0": {
+			"build": true,
+			"providerPlugin": "awscloudformation",
+			"service": "Lambda",
+			"dependsOn": []
+		}
+	}
+}

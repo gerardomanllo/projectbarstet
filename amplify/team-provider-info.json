@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-projectbarstet-dev-133900-authRole",
+            "UnauthRoleArn": "arn:aws:iam::031056496887:role/amplify-projectbarstet-dev-133900-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::031056496887:role/amplify-projectbarstet-dev-133900-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-projectbarstet-dev-133900-deployment",
+            "UnauthRoleName": "amplify-projectbarstet-dev-133900-unauthRole",
+            "StackName": "amplify-projectbarstet-dev-133900",
+            "StackId": "arn:aws:cloudformation:us-east-1:031056496887:stack/amplify-projectbarstet-dev-133900/8e0a3f90-d4ef-11ea-94a5-0e9061196303",
+            "AmplifyAppId": "dkfubs5f457t0"
+        }
+    }
+}
